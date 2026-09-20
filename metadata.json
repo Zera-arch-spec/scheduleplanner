@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Schedule Planner",
+  "description": "A real-time collaborative scheduling application with shared calendar views, reorderable rich content blocks, comments, reactions, role permissions, and Gemini-powered smart features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
